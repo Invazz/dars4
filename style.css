@@ -1,0 +1,106 @@
+*{
+    padding: 2px;
+    margin: 2px;
+}
+.container{
+    background-color: rgb(39, 39, 77);
+    width: 1700px;
+    height: 800px;
+}
+.parent{
+    width: 1700px;
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+}
+.box1{
+    color: white;
+    border-radius: 25px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 25px;
+}
+.box2{
+    color: white;
+    border-radius: 25px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 25px;
+}
+.box3{
+    color: white;
+    border-radius: 25px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 25px;
+}
+.box4{
+    color: white;
+    border-radius: 25px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 25px;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-around;
+}
+.box6{
+    color: black;
+    border: solid;
+    border-width: 30px;
+    border-color: red;
+    border-radius: 15px;
+    background-color: rgb(114, 250, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 150px;
+}.box7{
+    color: black;
+    border: solid;
+    border-width: 30px;
+    border-color: red;
+    border-radius: 15px;
+    background-color: rgb(114, 250, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 150px;
+}
+.neck{
+    display: flex;
+    justify-content: space-around;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.main_{
+    color: white;
+    border-radius: 15px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 70px;
+    font-size: 25px;
+}
